@@ -6,3 +6,4 @@
 - 2026-11-14 · sketch the next tool
 - 2026-11-15 · clean logs
 - 2026-11-16 · log the day
+- 2026-11-17 · log the day
