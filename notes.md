@@ -9,3 +9,4 @@
 - 2026-11-17 · log the day
 - 2026-11-18 · sketch the next tool
 - 2026-11-19 · cache the pair list
+- 2026-11-20 · rpc was flaky, swapped endpoint
