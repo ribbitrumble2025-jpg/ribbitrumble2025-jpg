@@ -12,3 +12,4 @@
 - 2026-11-20 · rpc was flaky, swapped endpoint
 - 2026-11-21 · cache the pair list
 - 2026-11-22 · scratch note
+- 2026-11-23 · clean logs
