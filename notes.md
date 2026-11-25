@@ -13,3 +13,4 @@
 - 2026-11-21 · cache the pair list
 - 2026-11-22 · scratch note
 - 2026-11-23 · clean logs
+- 2026-11-24 · small fixes
